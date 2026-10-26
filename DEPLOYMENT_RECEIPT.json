@@ -1,0 +1,14 @@
+{
+  "project": "amedeo-avogadro-ai",
+  "network": "Solana Devnet",
+  "cluster_url": "https://api.devnet.solana.com",
+  "mint_address": "7pW8srUTzUBb5d5TWM5v83QEcPqUXdSGwZDUgUnhmuwT",
+  "vault_account": "BqrrjZnhtSNDCpV39EPB8wn988o42MpuXa69bzGFab4i",
+  "initial_supply": 1000000,
+  "decimals": 9,
+  "creation_tx": "38SQp6MyNpXg25cGJyXJBZWDHKRcg3Ktgv1BVm6kh577eiXGSfTwwYZoD5da2S2rPqM3k7XRrvCCScWLvWu6ZyjR",
+  "account_tx": "4E7GFrxSdCkzxoBTghfUyKESw3NNHdyygH7Ec8C8koM6sBSGsuioG3PNiovzBF5iTJ8PhpuBhTGUd26r3bTcCwpa",
+  "mint_tx": "55gz6Liif5gmLG1SPiCfPaBY6AbwsREAUxMPT22TXamexhqEfRaxGBmd9gHikyM9dhKtZz6PBhyzS1VqPT4KiaGQ",
+  "solana_explorer_mint": "https://explorer.solana.com/address/7pW8srUTzUBb5d5TWM5v83QEcPqUXdSGwZDUgUnhmuwT?cluster=devnet",
+  "timestamp": "2026-10-26 16:17:36 UTC"
+}
